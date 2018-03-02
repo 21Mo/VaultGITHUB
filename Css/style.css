@@ -1,0 +1,51 @@
+body{
+background-image: url("../images/money.gif");
+background-size: cover;
+}
+#main-container{
+  border: solid 3px black;
+  height: 400px;
+  width: 500px;
+  margin: 0 auto;
+  background-color: black;
+}
+#number-container{
+background-color: #c3ccdb;
+height: 50px;
+margin-left: 140px;
+margin-right: 140px;
+font-size: 30px;
+font-family: "Hollywood Hills";
+text-align: center;
+}
+#message {
+  font-size: 30px;
+  margin-top: 20px;
+  margin-left: 150px;
+  margin-right: 140px;
+  font-family: "Hollywood Hills";
+  color: white;
+}
+button {
+display: inline-block;
+padding: 10px 25px;
+font-size: 24px;
+color: #fff;
+background-color: #c3ccdb;
+margin-top: 100px;
+margin-left: 70px;
+}
+button: hover{
+}
+#GreenBlock {
+  background-color: green;
+  width: 150px;
+  height: 50px;
+  float: left
+}
+#RedBlock {
+  background-color: red;
+  width: 150px;
+  height: 50px;
+  float: right
+}
